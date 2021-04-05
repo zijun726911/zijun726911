@@ -1,5 +1,6 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zijun726911&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zijun726911)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zijun726911/zijun726911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
